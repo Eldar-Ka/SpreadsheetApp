@@ -1,7 +1,8 @@
 # SpreadsheetApp
 
 Sharable SpreadsheetApp GUI representation of this project: https://github.com/Eldar-Ka/SharableSpreadSheet-Simulator
-Made using .NET WinForms App Framework
+
+Made using .NET WinForms App Framework,
 This project was made as a part of an assignment in the course "Introduction to Operating Systems" Associated with Ben-Gurion University of the Negev
 
 Please place the **spreadsheet.dat** file in the path: "*C:\Users\user\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net5.0-windows*"
